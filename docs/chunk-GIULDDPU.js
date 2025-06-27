@@ -1,0 +1,1 @@
+import{Sa as o,eb as t,fb as a,sb as s}from"./chunk-N44I7YIH.js";var p=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-change-password"]],decls:2,vars:0,template:function(e,c){e&1&&(t(0,"p"),s(1,"change-password works!"),a())},encapsulation:2})};export{p as ChangePasswordComponent};
