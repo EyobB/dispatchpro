@@ -1,0 +1,1 @@
+var i=class{name;url;expires;constructor(){this.name="",this.url="",this.expires=""}},t=class{static RATE_CONFIRMATION="Rate Confirmation";static BILL_OF_LADING="Bill of Lading";static INVOICE="Invoice"};export{i as a,t as b};
