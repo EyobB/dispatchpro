@@ -1,0 +1,1 @@
+import{Ta as t,ib as s,jb as n,wb as r}from"./chunk-YSP72ENP.js";var a=class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=t({type:e,selectors:[["app-forgot-password"]],decls:2,vars:0,template:function(o,i){o&1&&(s(0,"p"),r(1,"forgot-password works!"),n())},encapsulation:2})};export{a as ForgotPasswordComponent};

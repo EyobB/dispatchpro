@@ -1,0 +1,1 @@
+import{M as t}from"./chunk-YSP72ENP.js";var r=class o{constructor(){}getDispatcher(){return{name:"Philosia LLC",address:"5815 Gulfton St, Houston, TX 77081",phone:"+1-555-1234",email:"philosia@gmail.com"}}static \u0275fac=function(a){return new(a||o)};static \u0275prov=t({token:o,factory:o.\u0275fac,providedIn:"root"})};export{r as a};
