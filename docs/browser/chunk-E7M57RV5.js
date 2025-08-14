@@ -1,0 +1,1 @@
+import{Ta as t,ib as o,jb as r,wb as p}from"./chunk-YSP72ENP.js";var s=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=t({type:n,selectors:[["app-order-checkins-map"]],decls:2,vars:0,template:function(e,c){e&1&&(o(0,"p"),p(1,"order-checkins-map works!"),r())},encapsulation:2})};export{s as OrderCheckinsMapComponent};
