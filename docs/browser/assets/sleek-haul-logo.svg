@@ -1,0 +1,45 @@
+<svg width="240" height="48" viewBox="0 0 240 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Sleek Haul</title>
+  <desc id="logoDesc">Professional logistics logo with truck icon and high-contrast text</desc>
+
+  <!-- Truck Icon Group -->
+  <g>
+    <!-- Truck body (semi-truck design) -->
+    <rect x="8" y="18" width="16" height="14" rx="2" fill="white"/>
+    <!-- Truck trailer -->
+    <rect x="24" y="14" width="28" height="18" rx="1" fill="white"/>
+    <!-- Front bumper -->
+    <rect x="6" y="28" width="3" height="4" rx="1" fill="white"/>
+    <!-- Windshield -->
+    <path d="M8 18L12 14H20L24 18H8Z" fill="white"/>
+    <!-- Window -->
+    <rect x="12" y="20" width="8" height="5" rx="1" fill="#34D399" stroke="white" stroke-width="1"/>
+    <!-- Front wheels -->
+    <circle cx="12" cy="34" r="4" fill="white"/>
+    <circle cx="12" cy="34" r="2" fill="#34D399"/>
+    <!-- Rear wheels group -->
+    <circle cx="30" cy="34" r="4" fill="white"/>
+    <circle cx="30" cy="34" r="2" fill="#34D399"/>
+    <circle cx="40" cy="34" r="4" fill="white"/>
+    <circle cx="40" cy="34" r="2" fill="#34D399"/>
+    <!-- Forward motion lines -->
+    <line x1="55" y1="18" x2="64" y2="18" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="58" y1="24" x2="66" y2="24" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="55" y1="30" x2="62" y2="30" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Text: SLEEK HAUL - Using sans-serif font with excellent readability -->
+  <g>
+    <!-- SLEEK -->
+    <text x="80" y="25" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" letter-spacing="1" fill="white">SLEEK</text>
+    <!-- HAUL -->
+    <text x="80" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" letter-spacing="1" fill="#A7F3D0">HAUL</text>
+  </g>
+
+  <!-- Accent line -->
+  <line x1="80" y1="45" x2="172" y2="45" stroke="#34D399" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Tagline -->
+  <text x="180" y="25" font-family="Arial, Helvetica, sans-serif" font-size="10" font-style="italic" fill="white">Professional</text>
+  <text x="180" y="36" font-family="Arial, Helvetica, sans-serif" font-size="10" font-style="italic" fill="#A7F3D0">Logistics</text>
+</svg>
